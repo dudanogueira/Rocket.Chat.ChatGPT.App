@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/users/IUserCreationOptions.ts"],"names":[],"mappings":"","file":"IUserCreationOptions.js","sourcesContent":["export interface IUserCreationOptions {\n    avatarUrl?: string;\n    joinDefaultChannels?: boolean;\n    verified?: boolean;\n    requirePasswordChange?: boolean;\n    sendWelcomeEmail?: boolean;\n}\n"]}

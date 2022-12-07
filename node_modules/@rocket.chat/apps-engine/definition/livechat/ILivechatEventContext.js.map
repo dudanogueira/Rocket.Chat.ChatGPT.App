@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/livechat/ILivechatEventContext.ts"],"names":[],"mappings":"","file":"ILivechatEventContext.js","sourcesContent":["import { IUser } from '../users';\nimport { ILivechatRoom } from './ILivechatRoom';\n\nexport interface ILivechatEventContext {\n    agent: IUser;\n    room: ILivechatRoom;\n}\n"]}

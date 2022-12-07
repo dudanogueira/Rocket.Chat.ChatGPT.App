@@ -1,0 +1,7 @@
+{
+    "ChatGPT_Command_Description": "Ask your question to ChatGPT",
+    "ChatGPT_GlobalToken": "Global Token to use",
+    "ChatGPT_Action": "How the message should be presented?",
+    "ChatGPT_Action_Message": "A message on the channel",
+    "ChatGPT_Action_Notification": "A Notification that only appears to the user"
+}

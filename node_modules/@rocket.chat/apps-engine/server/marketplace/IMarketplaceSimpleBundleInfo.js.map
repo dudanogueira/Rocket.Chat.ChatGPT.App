@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/server/marketplace/IMarketplaceSimpleBundleInfo.ts"],"names":[],"mappings":"","file":"IMarketplaceSimpleBundleInfo.js","sourcesContent":["export interface IMarketplaceSimpleBundleInfo {\n    bundleId: string;\n    bundleName: string;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/cloud/IWorkspaceToken.ts"],"names":[],"mappings":"","file":"IWorkspaceToken.js","sourcesContent":["export interface IWorkspaceToken {\n    token: string;\n    expiresAt: Date;\n}\n"]}

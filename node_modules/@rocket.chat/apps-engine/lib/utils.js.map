@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/lib/utils.ts"],"names":[],"mappings":"","file":"utils.js","sourcesContent":["export type Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>;\n"]}

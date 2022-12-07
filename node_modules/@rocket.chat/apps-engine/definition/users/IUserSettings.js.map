@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/users/IUserSettings.ts"],"names":[],"mappings":"","file":"IUserSettings.js","sourcesContent":["export interface IUserSettings {\n    preferences?: {\n        language?: string;\n    };\n}\n"]}

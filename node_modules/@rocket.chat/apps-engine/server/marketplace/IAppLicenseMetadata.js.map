@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/server/marketplace/IAppLicenseMetadata.ts"],"names":[],"mappings":"","file":"IAppLicenseMetadata.js","sourcesContent":["export interface IAppLicenseMetadata {\n    license: string;\n    version: number;\n    expireDate: Date;\n}\n"]}

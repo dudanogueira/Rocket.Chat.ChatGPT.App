@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/api/IApiEndpointInfo.ts"],"names":[],"mappings":"","file":"IApiEndpointInfo.js","sourcesContent":["export interface IApiEndpointInfo {\n    basePath: string;\n    fullPath: string;\n    appId: string;\n    hash?: string;\n}\n"]}

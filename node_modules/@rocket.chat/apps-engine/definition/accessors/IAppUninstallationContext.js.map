@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/accessors/IAppUninstallationContext.ts"],"names":[],"mappings":"","file":"IAppUninstallationContext.js","sourcesContent":["import { IUser } from '../users';\n\nexport interface IAppUninstallationContext {\n    user: IUser;\n}\n"]}

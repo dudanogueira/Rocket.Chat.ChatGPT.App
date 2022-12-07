@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/accessors/IModifyDeleter.ts"],"names":[],"mappings":"","file":"IModifyDeleter.js","sourcesContent":["export interface IModifyDeleter {\n    deleteRoom(roomId: string): Promise<void>;\n}\n"]}

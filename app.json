@@ -1,0 +1,16 @@
+{
+    "id": "1ad3bdd3-ba8c-4ec9-8831-1ce1631798d7",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Duda Nogueira",
+        "homepage": "http://github.com/dudanogueira",
+        "support": "http://github.com/dudanogueira"
+    },
+    "name": "ChatGPT",
+    "nameSlug": "chatgpt",
+    "classFile": "ChatGptApp.ts",
+    "description": "Unofficial ChatGPT integration",
+    "implements": []
+}

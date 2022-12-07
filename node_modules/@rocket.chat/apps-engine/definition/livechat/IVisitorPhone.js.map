@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/livechat/IVisitorPhone.ts"],"names":[],"mappings":"","file":"IVisitorPhone.js","sourcesContent":["\nexport interface IVisitorPhone {\n    phoneNumber: string;\n}\n"]}

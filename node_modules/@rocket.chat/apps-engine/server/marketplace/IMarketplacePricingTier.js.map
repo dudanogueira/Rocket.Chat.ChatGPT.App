@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/server/marketplace/IMarketplacePricingTier.ts"],"names":[],"mappings":"","file":"IMarketplacePricingTier.js","sourcesContent":["export interface IMarketplacePricingTier {\n    perUnit: boolean;\n    minimum: number;\n    maximum: number;\n    price: number;\n}\n"]}

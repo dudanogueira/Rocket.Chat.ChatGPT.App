@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/videoConferences/IVideoConferenceUser.ts"],"names":[],"mappings":"","file":"IVideoConferenceUser.js","sourcesContent":["export interface IVideoConferenceUser {\n    _id: string;\n    username: string;\n    name: string;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/accessors/IUploadRead.ts"],"names":[],"mappings":"","file":"IUploadRead.js","sourcesContent":["\nimport { IUpload } from '../uploads';\n\nexport interface IUploadRead {\n    getById(id: string): Promise<IUpload>;\n    getBufferById(id: string): Promise<Buffer>;\n    getBuffer(upload: IUpload): Promise<Buffer>;\n}\n"]}

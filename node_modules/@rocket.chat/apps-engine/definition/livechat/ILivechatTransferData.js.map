@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/livechat/ILivechatTransferData.ts"],"names":[],"mappings":"","file":"ILivechatTransferData.js","sourcesContent":["import { IUser } from '../users';\nimport { ILivechatRoom } from './ILivechatRoom';\n\nexport interface ILivechatTransferData {\n    currentRoom: ILivechatRoom;\n    targetAgent?: IUser;\n    targetDepartment?: string;\n}\n"]}

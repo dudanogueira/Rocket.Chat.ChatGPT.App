@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/messages/IMessageFile.ts"],"names":[],"mappings":"","file":"IMessageFile.js","sourcesContent":["export interface IMessageFile {\n    _id: string;\n    name: string;\n    type: string;\n}\n"]}

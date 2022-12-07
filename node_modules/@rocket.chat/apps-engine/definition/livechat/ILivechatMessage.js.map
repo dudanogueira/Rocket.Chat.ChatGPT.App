@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/livechat/ILivechatMessage.ts"],"names":[],"mappings":"","file":"ILivechatMessage.js","sourcesContent":["import { IMessage } from '../messages/IMessage';\nimport { IVisitor } from './IVisitor';\n\nexport interface ILivechatMessage extends IMessage {\n    visitor?: IVisitor;\n    token?: string;\n}\n"]}

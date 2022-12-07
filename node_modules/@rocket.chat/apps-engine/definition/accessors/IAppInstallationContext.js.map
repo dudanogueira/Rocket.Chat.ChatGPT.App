@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/accessors/IAppInstallationContext.ts"],"names":[],"mappings":"","file":"IAppInstallationContext.js","sourcesContent":["import { IUser } from '../users';\n\nexport interface IAppInstallationContext {\n    user: IUser;\n}\n"]}

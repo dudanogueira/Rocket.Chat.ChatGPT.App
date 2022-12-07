@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/uploads/IFileUploadContext.ts"],"names":[],"mappings":"","file":"IFileUploadContext.js","sourcesContent":["\nimport { IUploadDetails } from './IUploadDetails';\n\nexport interface IFileUploadContext {\n    file: IUploadDetails;\n    content: Buffer;\n}\n"]}

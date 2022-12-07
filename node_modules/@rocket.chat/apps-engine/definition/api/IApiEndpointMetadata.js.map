@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/definition/api/IApiEndpointMetadata.ts"],"names":[],"mappings":"","file":"IApiEndpointMetadata.js","sourcesContent":["import { IApiExample } from './IApiExample';\n\nexport interface IApiEndpointMetadata {\n    path: string;\n    computedPath: string;\n    methods: Array<string>;\n    examples?: {\n        [key: string]: IApiExample,\n    };\n}\n"]}

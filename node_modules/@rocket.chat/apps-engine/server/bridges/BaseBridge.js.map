@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/server/bridges/BaseBridge.ts"],"names":[],"mappings":";;;AACA;;;;GAIG;AACH,MAAsB,UAAU;CAAI;AAApC,gCAAoC","file":"BaseBridge.js","sourcesContent":["\n/**\n * This class will be used for identification\n * of the instances the host sends over to\n * the Apps-Engine\n */\nexport abstract class BaseBridge { }\n"]}
