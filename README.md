@@ -6,6 +6,9 @@ A simple App to integrate with ChatGPT unnoficial API
 - Get your ChatGPT token [following this doc](https://github.com/acheong08/ChatGPT/wiki/Setup)
 - Configure your app with it, and choose how you want the answer to be presented
 
+## NOTICE
+due to the ammount of requests, ChatGPT may not answer the question and it will silently fail :(
+
 ## DISCLAIMER
 This App uses an unofficial API for ChatGPT and is meant only for reserach (and fun) purposes. Use it at your own risk.
 
