@@ -2,7 +2,7 @@
 A simple App to integrate with ChatGPT unnoficial API
 
 ## Getting Started
-- Install this App at your Rocket.Chat instance
+- Install this App at your Rocket.Chat instance: [How to do it here](https://docs.rocket.chat/air-gapped-workspaces/manual-app-installation#installing-an-app) and [Versions here](https://github.com/dudanogueira/Rocket.Chat.ChatGPT.App/tree/master/dist)
 - Get your ChatGPT token [following this doc](https://github.com/acheong08/ChatGPT/wiki/Setup)
 - Configure your app with it, and choose how you want the answer to be presented
 
