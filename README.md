@@ -15,6 +15,18 @@ due to the ammount of requests, ChatGPT may not answer the question and it will 
 ## DISCLAIMER
 This App uses an unofficial API for ChatGPT and is meant only for reserach (and fun) purposes. Use it at your own risk.
 
+## KNOWN ISSUES
+for some reason the build/deploy process fails. You need to change:
+```
+//import ExpiryMap from 'expiry-map';
+import ExpiryMap = require('expiry-map');
+```
+at node_modules/chatgpt/build/index.d.ts
+
+Also, check out this issue and workaround if you have problems while deploying:
+[Failed to call the method "http.STATUS_CODES](https://github.com/dudanogueira/Rocket.Chat.ChatGPT.App/issues/1)
+
+
 ## Documentation from Rocket.Chat side:
 Here are some links to examples and documentation:
 - [Rocket.Chat Apps TypeScript Definitions Documentation](https://rocketchat.github.io/Rocket.Chat.Apps-engine/)
