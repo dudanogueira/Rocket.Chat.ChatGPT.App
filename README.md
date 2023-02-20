@@ -1,6 +1,15 @@
 # Rocket.Chat.ChatGPT.App
 A simple App to integrate with ChatGPT unnoficial API
 
+# **UPDATE!!!** 
+this App was using an unnoficial API, which was always updating.
+
+With the release of the OpenAi Completions API, we can now do it the proper way. Check it out:
+https://github.com/dudanogueira/Rocket.Chat.OpenAI.Completions.App
+
+
+Notice: This app need to update the external dependency in order to work.
+
 ![image](https://user-images.githubusercontent.com/1761174/206304501-505c1031-30c8-4f9c-817f-aec2427395ca.png)
 
 
